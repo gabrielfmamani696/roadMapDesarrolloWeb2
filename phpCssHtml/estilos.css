@@ -1,0 +1,17 @@
+/* estilos.css */
+* {
+    font-family: 'Roboto', sans-serif;
+    /* background-color: lightblue; */
+}
+
+.fontColorGreen {
+    color: green;
+}
+
+.fontColorBlue {
+    color: skyblue;
+}
+
+h1 {
+    color: navy;
+}
